@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspaces/Decentralized-Sports-Voting-App/contracts/SportsVoting.sol": {
+      "lastModificationDate": 1715261036344,
+      "contentHash": "5f2570a5d1a7f687d7a936b6524f4932",
+      "sourceName": "contracts/SportsVoting.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SportsVoting"
+      ]
+    }
+  }
+}
